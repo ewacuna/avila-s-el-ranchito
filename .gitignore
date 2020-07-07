@@ -1,0 +1,8 @@
+# OS or Editor folders
+.cache
+.DS_Store
+Thumbs.db
+.project
+.settings
+.db
+.ini
